@@ -2,6 +2,8 @@
 The world's first Switch 2 Emulator.
 
 Have any concerns about the project? Please contact me at ``solardotsh@proton.me``
+And nintendo, if you have any concerns, please also contact me on that.
+
 
 Hassaku is an early and WIP Switch 2 Emulator made in C#
 
